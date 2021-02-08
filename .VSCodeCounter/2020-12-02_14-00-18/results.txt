@@ -1,0 +1,73 @@
+Date : 2020-12-02 14:00:18
+Directory : /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src
+Total : 33 files,  942 codes, 2 comments, 126 blanks, all 1070 lines
+
+Languages
++------------------+------------+------------+------------+------------+------------+
+| language         | files      | code       | comment    | blank      | total      |
++------------------+------------+------------+------------+------------+------------+
+| TypeScript       |         18 |        573 |          2 |         83 |        658 |
+| TypeScript React |          8 |        310 |          0 |         37 |        347 |
+| XML              |          7 |         59 |          0 |          6 |         65 |
++------------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                                   | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                      |         33 |        942 |          2 |        126 |      1,070 |
+| components                                                                                                             |          6 |        310 |          0 |         37 |        347 |
+| components/Game                                                                                                        |          2 |         54 |          0 |          8 |         62 |
+| components/GameDetail                                                                                                  |          2 |        187 |          0 |         20 |        207 |
+| components/Nav                                                                                                         |          2 |         69 |          0 |          9 |         78 |
+| hooks                                                                                                                  |          1 |          7 |          0 |          2 |          9 |
+| img                                                                                                                    |          7 |         59 |          0 |          6 |         65 |
+| pages                                                                                                                  |          2 |         85 |          0 |         10 |         95 |
+| pages/Home                                                                                                             |          2 |         85 |          0 |         10 |         95 |
+| routes                                                                                                                 |          1 |         11 |          0 |          3 |         14 |
+| services                                                                                                               |          1 |         22 |          0 |          9 |         31 |
+| store                                                                                                                  |          9 |        323 |          0 |         48 |        371 |
+| store/actions                                                                                                          |          2 |         67 |          0 |         10 |         77 |
+| store/reducers                                                                                                         |          3 |        102 |          0 |         12 |        114 |
+| styles                                                                                                                 |          1 |         50 |          1 |          2 |         53 |
++------------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| filename                                                                                                               | language         | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/App.tsx                            | TypeScript React |         14 |          0 |          3 |         17 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/animations.ts                      | TypeScript       |         36 |          0 |          2 |         38 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Game/index.tsx          | TypeScript React |         39 |          0 |          6 |         45 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Game/styles.ts          | TypeScript       |         15 |          0 |          2 |         17 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/GameDetail/index.tsx    | TypeScript React |        119 |          0 |          9 |        128 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/GameDetail/styles.ts    | TypeScript       |         68 |          0 |         11 |         79 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Nav/index.tsx           | TypeScript React |         34 |          0 |          5 |         39 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Nav/styles.ts           | TypeScript       |         35 |          0 |          4 |         39 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/hooks/useGetGameIDFromLocation.tsx | TypeScript React |          7 |          0 |          2 |          9 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/apple.svg                      | XML              |          3 |          0 |          1 |          4 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/gamepad.svg                    | XML              |          3 |          0 |          1 |          4 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/logo.svg                       | XML              |          1 |          0 |          0 |          1 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/nintendo.svg                   | XML              |          5 |          0 |          1 |          6 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/playstation.svg                | XML              |          3 |          0 |          1 |          4 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/steam.svg                      | XML              |         34 |          0 |          1 |         35 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/xbox.svg                       | XML              |         10 |          0 |          1 |         11 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/index.tsx                          | TypeScript React |         16 |          0 |          2 |         18 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/pages/Home/index.tsx               | TypeScript React |         70 |          0 |          7 |         77 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/pages/Home/styles.ts               | TypeScript       |         15 |          0 |          3 |         18 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/react-app-env.d.ts                 | TypeScript       |          0 |          1 |          1 |          2 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/routes/index.tsx                   | TypeScript React |         11 |          0 |          3 |         14 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/services/api.ts                    | TypeScript       |         22 |          0 |          9 |         31 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/actions/detailsAction.ts     | TypeScript       |         23 |          0 |          4 |         27 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/actions/gamesAction.ts       | TypeScript       |         44 |          0 |          6 |         50 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/index.ts                     | TypeScript       |         18 |          0 |          7 |         25 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/reducers/detailsReducer.ts   | TypeScript       |         47 |          0 |          4 |         51 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/reducers/gamesReducer.ts     | TypeScript       |         46 |          0 |          4 |         50 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/reducers/index.ts            | TypeScript       |          9 |          0 |          4 |         13 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/rootSaga.ts                  | TypeScript       |         10 |          0 |          2 |         12 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/sagas.ts                     | TypeScript       |         63 |          0 |          8 |         71 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/types.ts                     | TypeScript       |         63 |          0 |          9 |         72 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/styles/GlobalStyles.ts             | TypeScript       |         50 |          1 |          2 |         53 |
+| /Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/util.ts                            | TypeScript       |          9 |          0 |          1 |         10 |
+| Total                                                                                                                  |                  |        942 |          2 |        126 |      1,070 |
++------------------------------------------------------------------------------------------------------------------------+------------------+------------+------------+------------+------------+

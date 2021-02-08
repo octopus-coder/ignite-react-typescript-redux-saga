@@ -1,0 +1,35 @@
+"filename", "language", "TypeScript", "TypeScript React", "XML", "comment", "blank", "total"
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/App.tsx", "TypeScript React", 0, 14, 0, 0, 3, 17
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/animations.ts", "TypeScript", 36, 0, 0, 0, 2, 38
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Game/index.tsx", "TypeScript React", 0, 39, 0, 0, 6, 45
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Game/styles.ts", "TypeScript", 15, 0, 0, 0, 2, 17
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/GameDetail/index.tsx", "TypeScript React", 0, 119, 0, 0, 9, 128
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/GameDetail/styles.ts", "TypeScript", 68, 0, 0, 0, 11, 79
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Nav/index.tsx", "TypeScript React", 0, 34, 0, 0, 5, 39
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/components/Nav/styles.ts", "TypeScript", 35, 0, 0, 0, 4, 39
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/hooks/useGetGameIDFromLocation.tsx", "TypeScript React", 0, 7, 0, 0, 2, 9
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/apple.svg", "XML", 0, 0, 3, 0, 1, 4
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/gamepad.svg", "XML", 0, 0, 3, 0, 1, 4
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/logo.svg", "XML", 0, 0, 1, 0, 0, 1
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/nintendo.svg", "XML", 0, 0, 5, 0, 1, 6
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/playstation.svg", "XML", 0, 0, 3, 0, 1, 4
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/steam.svg", "XML", 0, 0, 34, 0, 1, 35
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/img/xbox.svg", "XML", 0, 0, 10, 0, 1, 11
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/index.tsx", "TypeScript React", 0, 16, 0, 0, 2, 18
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/pages/Home/index.tsx", "TypeScript React", 0, 70, 0, 0, 7, 77
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/pages/Home/styles.ts", "TypeScript", 15, 0, 0, 0, 3, 18
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/react-app-env.d.ts", "TypeScript", 0, 0, 0, 1, 1, 2
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/routes/index.tsx", "TypeScript React", 0, 11, 0, 0, 3, 14
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/services/api.ts", "TypeScript", 22, 0, 0, 0, 9, 31
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/actions/detailsAction.ts", "TypeScript", 23, 0, 0, 0, 4, 27
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/actions/gamesAction.ts", "TypeScript", 44, 0, 0, 0, 6, 50
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/index.ts", "TypeScript", 18, 0, 0, 0, 7, 25
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/reducers/detailsReducer.ts", "TypeScript", 47, 0, 0, 0, 4, 51
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/reducers/gamesReducer.ts", "TypeScript", 46, 0, 0, 0, 4, 50
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/reducers/index.ts", "TypeScript", 9, 0, 0, 0, 4, 13
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/rootSaga.ts", "TypeScript", 10, 0, 0, 0, 2, 12
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/sagas.ts", "TypeScript", 63, 0, 0, 0, 8, 71
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/store/types.ts", "TypeScript", 63, 0, 0, 0, 9, 72
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/styles/GlobalStyles.ts", "TypeScript", 50, 0, 0, 1, 2, 53
+"/Users/luisenriqueg/Documents/Learning/DevEd/ignite-react-typescript-redux-saga/src/util.ts", "TypeScript", 9, 0, 0, 0, 1, 10
+"Total", "-", 573, 310, 59, 2, 126, 1070
